@@ -1,4 +1,4 @@
-```markdown
+
 # Optical Detectors: HST & Sentinel Analysis
 
 ## Overview
@@ -52,4 +52,3 @@ This project explores **volcanic island evolution and vegetation recovery** usin
 ### Results
 
 The analysis indicates vegetation recovery during **2017–2019**, with the estimated vegetated area increasing steadily over that period.
-```
